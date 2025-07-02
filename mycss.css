@@ -1,0 +1,66 @@
+body {
+    text-align: justify;
+    font-family: Verdana;
+    background-color: rgb(247, 207, 169);
+}
+
+.cabeçalho {
+    background-color: rgb(241, 151, 66);
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-top: -27.5px;margin-left: -8px;
+    margin-right: -7.5px;
+}
+
+#title {
+    color: white;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+}
+
+.text {
+    background-color: rgb(255, 199, 149);
+    height: 265px;
+    margin-top: 50px;
+    margin-bottom: 75px;
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.item1 {
+    background-color:white;
+    margin: auto;
+    padding: 10px;
+    max-width: 300px;
+    max-height: 230px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px black;
+}
+
+.rodapé {
+    background-color:rgb(241, 151, 66);
+    height: 100px;
+    margin-top: 206px;
+    margin-bottom: -10px;
+    margin-left: -8px;
+    margin-right: -7.5px;
+}
+
+#copy {
+    color:lightgray;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
